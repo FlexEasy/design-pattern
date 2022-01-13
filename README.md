@@ -106,6 +106,7 @@ public class Tea {
 ```
 
 #### Make Caffeine Beverage
+- 위와 같이 2개 이상의 클래스가 유사한 기능을 제공하면서 중복된 코드가 있는 경우에는 상속을 이용해서 코드 중복 문제를 피할 수 있다.
 
 ```js
 abstract class CaffeineBeverage {
